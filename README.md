@@ -23,7 +23,7 @@
 
 [Writing]
 
-## framework
+## framework - would need time to understand
 ![DaisyUI](https://img.shields.io/badge/daisyui-%235A0EF8.svg?style=for-the-badge&logo=daisyui&logoColor=white) ![htmx](https://img.shields.io/badge/htmx-%233366CC.svg?style=for-the-badge&logo=htmx&logoColor=white)
 
 
