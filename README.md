@@ -10,7 +10,7 @@ python, dart, c++ (at least on basics), typescript
 
 ## frameworks
 
-flutter, tkinter/customtkinter
+flutter, tkinter/customtkinter, flet
 
 ---
 
